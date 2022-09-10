@@ -1,0 +1,19 @@
+body {
+    background-color:lightpink;
+    color:white;
+}
+.name_of_objects {
+    color:yellow;
+}
+#camera {
+    border:2px dashed black;
+    width:450px;
+    height:325
+}
+#results {
+    border:2px dashed black;
+    width:450px;
+    height:325
+}
+
+
